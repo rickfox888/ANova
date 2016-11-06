@@ -422,7 +422,7 @@ hr {
 }
 
 #team h3 {
-  color: #ffa400;
+  color: #01B1AF;
   font-size: 14px;
   font-weight: bold;
 }
@@ -432,13 +432,9 @@ hr {
   position: relative;
   bottom: 0;
   transition: all 0.4s linear;
-  padding: 62px 22px 62px 22px;
+  padding: 0px 22px 50px 22px;
   margin-top: 20px;
-}
-
-#team .team-wrapper:hover .team-des {
-  background: #ffffff;
-  bottom: 100px;
+  
 }
 
 #team .team-wrapper .social-icon li a {
